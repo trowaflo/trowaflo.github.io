@@ -1,3 +1,0 @@
-body { font: 16px/1.6 system-ui, sans-serif; max-width: 42rem; margin: 3rem auto; padding: 0 1rem; color: #222; background: #fff; }
-h1 { font-size: 1.5rem; }
-@media (prefers-color-scheme: dark) { body { color: #ddd; background: #161616; } a { color: #8ab4f8; } }
